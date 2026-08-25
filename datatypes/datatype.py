@@ -36,7 +36,7 @@ print(type(value))
 #question 29
 
 product_name = "telephone"
-product_quantity = 80
+product_quantity = 80 
 product_price = 999.9
 product_available = True
 discount_information = None
