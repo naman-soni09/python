@@ -100,10 +100,18 @@
 #     print("Fail")
 
 
-age = int(input("Enter age: "))
-if age < 0 or age > 120:
-    print("Invalid age")
-elif age >= 18:
-    print("Can vote")
-else:
-    print("Cannot vote")
+# year = int(input("Enter a year: "))
+
+# if year % 400 == 0 or (year % 4 == 0 and year % 100 != 0):
+#     print("Leap year")
+# else:
+#     print("Not a leap year")
+
+
+# age = int(input("Enter age: "))
+# if age < 0 or age > 120:
+#     print("Invalid age")
+# elif age >= 18:
+#     print("Can vote")
+# else:
+#     print("Cannot vote")
